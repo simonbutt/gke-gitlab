@@ -1,0 +1,9 @@
+# Misc
+gke-gitlab.code-workspace
+.envrc
+
+# Terraform
+.terraform
+.tfstate
+
+tfplan.out
