@@ -1,6 +1,6 @@
-# Project Title
+# Gitlab-GKE
 
-Simple overview of use/purpose.
+Automated deployment of a self hosted gitlab-ci hosted on kubernetes on GCP
 
 
 ## Getting Started
